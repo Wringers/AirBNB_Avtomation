@@ -1,4 +1,7 @@
 package registration;
 
-public class RegistrationForm git{
+public class RegistrationForm {
+    public static void main(String[] args) {
+
+    }
 }
